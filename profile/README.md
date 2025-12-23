@@ -21,18 +21,15 @@ anyone who wishes to apply the skills acquired during their studies, be part of 
 ambitious project, and compete with other universities on an international level.
 
 ### Prossimi Obbiettivi 🔭 
-Parteciperemo all'edizione 2026 dell’Air Cargo Challenge (ACC), che si terrà a Stuttgart, in Germania.
-La competizione ospita con cadenza biennale studenti di 30 università diverse provenienti da tutto il mondo ed è
-promossa da EUROAVIA, l’Associazione Europea degli Studenti di Ingegneria Aerospaziale.
+Parteciperemo alla BMFA 2026 – University & Schools Competition, una competizione internazionale dedicata a studenti universitari e delle scuole, organizzata dalla British Model Flying Association (BMFA). L’evento si svolgerà nel 2026 presso il BMFA National Centre di Buckminster (Regno Unito) e rappresenta un’importante occasione di confronto tra team accademici provenienti da diversi Paesi.
+La competizione è focalizzata sulla progettazione, realizzazione e prova di volo di aeromobili a controllo remoto, con particolare attenzione agli aspetti ingegneristici, alla qualità costruttiva e alle prestazioni in volo, offrendo agli studenti un’esperienza altamente formativa che unisce teoria, pratica e lavoro di squadra.
 
 ### Upcoming goals 🔭 🇬🇧
-We will participate in the 2026 edition of the Air Cargo Challenge (ACC), which will take place in
-Stuttgart, Germany. The competition, held every two years, brings together students from 30 different
-universities worldwide and is promoted by EUROAVIA, the European Association of
-Aerospace Engineering Students.
+We will take part in the BMFA 2026 – University & Schools Competition, an international challenge dedicated to university and school teams and organized by the British Model Flying Association (BMFA). The event will be held in 2026 at the BMFA National Centre in Buckminster, United Kingdom, and will bring together student teams from different countries.
+The competition focuses on the design, construction, and flight testing of remote controlled aircraft, with particular emphasis on engineering design, build quality, and flight performance. It represents a valuable educational opportunity, allowing students to apply theoretical knowledge in a practical context while developing teamwork and project management skills.
 
 ### La Competizione
-L'obiettivo principale è progettare e costruire un velivolo radiocomandato in grado di volare con il massimo carico
+L'obiettivo principale è progettare e costruire un velivolo a controllo remoto in grado di volare con il massimo carico
 utile possibile secondo le regole stabilite dal regolamento della competizione, che varia in ogni edizione.
 
 ### The competition 🇬🇧
@@ -60,7 +57,7 @@ Se ti piace il progetto e desideri supportarci o saperne di più ci puoi trovare
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/LeanIngProject)<br>
 [![](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://twitter.com/leaning_project)<br>
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/leaning-project)<br>
-[![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:acc.unipi@gmail.com)<br>
+[![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@leaningproject.it)<br>
 <!--[![Website](https://img.shields.io/badge/Website-FF5722?logo=google-chrome&logoColor=white)](https://leaningproject.ing.unipi.it)
 
 
